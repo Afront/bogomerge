@@ -1,0 +1,16 @@
+name: bogosort
+description: |
+  Sorts the array (in)efficiently using bogosort
+version: 0.1.0
+
+authors:
+  - Afront <3943720+Afront@users.noreply.github.com>
+
+development_dependencies:
+  ameba:
+    github: crystal-ameba/ameba
+    version: ~> 0.11.0
+
+crystal: 0.32.1
+
+license: MIT

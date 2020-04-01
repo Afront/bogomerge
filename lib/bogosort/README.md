@@ -1,4 +1,4 @@
-# bogomerge
+# bogosort
 
 TODO: Write a description here
 
@@ -8,8 +8,8 @@ TODO: Write a description here
 
    ```yaml
    dependencies:
-     bogomerge:
-       github: your-github-user/bogomerge
+     bogosort:
+       github: your-github-user/bogosort
    ```
 
 2. Run `shards install`
@@ -17,7 +17,7 @@ TODO: Write a description here
 ## Usage
 
 ```crystal
-require "bogomerge"
+require "bogosort"
 ```
 
 TODO: Write usage instructions here
@@ -28,7 +28,7 @@ TODO: Write development instructions here
 
 ## Contributing
 
-1. Fork it (<https://github.com/your-github-user/bogomerge/fork>)
+1. Fork it (<https://github.com/your-github-user/bogosort/fork>)
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
